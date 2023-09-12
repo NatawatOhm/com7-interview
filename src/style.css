@@ -4,27 +4,27 @@
 
 @font-face {
   font-family: 'SukhumvitSet-Bold';
-  src: url('../src/assets/font/SukhumvitSet-Bold.ttf');
+  src: url('../src/assets/fonts/SukhumvitSet-Bold.ttf');
 }
 @font-face {
   font-family: 'SukhumvitSet-Light';
-  src: url('../src/assets/font/SukhumvitSet-Light.ttf');
+  src: url('../src/assets/fonts/SukhumvitSet-Light.ttf');
 }
 @font-face {
   font-family: 'SukhumvitSet-Medium';
-  src: url('../src/assets/font/SukhumvitSet-Medium.ttf');
+  src: url('../src/assets/fonts/SukhumvitSet-Medium.ttf');
 }
 @font-face {
   font-family: 'SukhumvitSet-SemiBold';
-  src: url('../src/assets/font/SukhumvitSet-SemiBold.ttf');
+  src: url('../src/assets/fonts/SukhumvitSet-SemiBold.ttf');
 }
 @font-face {
   font-family: 'SukhumvitSet-Text';
-  src: url('../src/assets/font/SukhumvitSet-Text.ttf');
+  src: url('../src/assets/fonts/SukhumvitSet-Text.ttf');
 }
 @font-face {
   font-family: 'SukhumvitSet-Thin';
-  src: url('../src/assets/font/SukhumvitSet-Thin.ttf');
+  src: url('../src/assets/fonts/SukhumvitSet-Thin.ttf');
 }
 
 body {
