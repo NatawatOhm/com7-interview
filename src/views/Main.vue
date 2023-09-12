@@ -1,7 +1,11 @@
 <template>
-  <div>this is main page</div>
+  <div>
+    <MainLayout>
+      <template #content> this is main page </template>
+    </MainLayout>
+  </div>
 </template>
 
-<script setup></script>
+<script setup lang="ts"></script>
 
 <style scoped></style>
