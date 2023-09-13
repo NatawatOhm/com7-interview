@@ -1,5 +1,5 @@
 <template>
-  <div class="global-padding w-full flex justify-between items-center h-[64px] font-[SukhumvitSet-Bold] fixed bottom-0">
+  <div class="global-padding w-full flex justify-between items-center h-[64px] font-[SukhumvitSet-Bold] relative bottom-0">
     <p class="text-[14px] text-[#808080]">Copyright © Interview. All rights reserved.</p>
     <div class="flex items-center gap-[20px]">
       <img :src="westernUnionIcon" alt="" />
